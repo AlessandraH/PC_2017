@@ -1,0 +1,6 @@
+Memória 31,3 GiB
+Processador Intel® Xeon(R) CPU E5-1650 v3 @ 3.50GHz × 12 
+Gráficos Quadro K4200/PCIe/SSE2
+Tipo de sistema Ubuntu 16.04 64-bit
+Disco 218,2 GB
+

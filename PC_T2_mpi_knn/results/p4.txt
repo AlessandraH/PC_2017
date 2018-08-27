@@ -1,0 +1,49 @@
+Paralelo MPI - 59
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+6,66837
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+6,66848
+6,66846
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+6,66856
+
+Paralelo MPI - 161
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+15,955
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+15,955
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+15,955
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+15,9552
+
+Paralelo MPI - 256
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+24,5714
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+24,5715
+24,5715
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+24,5717
+
+Paralelo MPI - 1380
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+127,434
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+127,434
+127,434
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+127,434
+
+Paralelo MPI - 1601
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+147,997
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+147,997
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+147,997
+PROCESSOR NAME: rodrigo-Precision-Tower-5810
+148
